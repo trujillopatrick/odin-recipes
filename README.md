@@ -1,2 +1,2 @@
 # odin-recipes
-A simple website to share delicious food recipes
+The Odin Project | Exercise | Recipes Project
