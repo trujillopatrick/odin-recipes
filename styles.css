@@ -32,6 +32,7 @@ img {
     height: auto;
 }
 
+
 ul {
     text-align: center;
     list-style-type: none;
@@ -42,3 +43,9 @@ li {
     font-weight: 700;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+p {
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
